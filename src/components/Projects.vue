@@ -15,7 +15,7 @@ const projects = [
   {
     image: '/project-water-heater.png',
     title: 'Tankless Water Heater Install – Katy',
-    description: 'Replaced an aging 40-gallon tank with a high-efficiency tankless unit. Family now saves 30% on water heating costs.',
+    description: 'Replaced an aging 40 gallon tank with a high efficiency tankless unit. Family now saves 30% on water heating costs.',
     time: '4 hours',
     tag: 'Installation',
     tagColor: 'bg-blue-100 text-blue-700',

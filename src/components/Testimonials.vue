@@ -42,7 +42,7 @@ function getStars(rating) {
           What Our Customers Say
         </h2>
         <p class="text-lg text-gray-500 max-w-2xl mx-auto">
-          Don't just take our word for it. Here's what real Houston homeowners have to say.
+          Don't just take our word for it. Here's what real Houston home owners have to say.
         </p>
       </div>
 
